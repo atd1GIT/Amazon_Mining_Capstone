@@ -1,2 +1,2 @@
 # Amazon_Mining_Capstone
-Reproducible Google Earth Engine + TensorFlow U-Net pipeline for academic detection of illegal gold mining deforestation and clandestine infrastructure in the Brazilian Amazon – Johns Hopkins University MS GIS Capstone Project (2026).
+Disclaimer: This model and associated software were developed for the JHU Geographic Information Systems Capstone (430.800) for purely educational and research purposes. The v6 U-Net architecture serves as a proof-of-concept for multimodal fusion (Sentinel-1/Sentinel-2) in environmental monitoring. While the model achieved a high precision of 0.8617 during validation, it is not intended for high-stakes operational deployment without further refinement, extensive regional ground-truthing, and rigorous peer review.
